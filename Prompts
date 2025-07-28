@@ -1,0 +1,6 @@
+Main Prompt
+
+Imagine you are working as a warehouse engineer and there is a requirement from warehouse operations to change the screen size of the existing workstation or add a screen size
+for the new workstation based on the existing model. For changing the screen size, we will be changing the PL/SQL code according to the table, and for adding the screen, 
+we will create a new record in the table related to the workstation, and then the web tier linked to it is refreshed manually. Now, instead of doing it manually, 
+help me provide the ways and guide where the warehouse operations team can ask for it in the chatbot and it will automatically make the changes in the records and changes the screen size
